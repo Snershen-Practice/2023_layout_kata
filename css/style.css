@@ -1,0 +1,32 @@
+@import url(reset.css);
+
+.container {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+body {
+  line-height: 1.5;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.news {
+  margin-right: 20px;
+}
+
+.news-item {
+  display: flex;
+  margin-bottom: 24px;
+}
+
+.news-img {
+  margin-right: 20px;
+}
+
+.news-title {
+  font-size: 1.25rem;
+  line-height: 1.2;
+}
